@@ -1,1 +1,2 @@
-# error
+# synchronousBallMovement
+Ball moving synchronously
